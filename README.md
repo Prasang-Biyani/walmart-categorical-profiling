@@ -4,7 +4,7 @@
 ## Business Problem
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? (Assume 50 million customers are male and 50 million are female).
 
-## EDA Approach
+## Exploratory Data Analysis (EDA) approach
 
 1. Tracking the amount spent per transaction of all the 50 million female customers, and all the 50 million male customers, calculate the average, and conclude the results.
 2. Inference after computing the average female and male expenses.
